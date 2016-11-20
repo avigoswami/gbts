@@ -1,0 +1,5 @@
+C:\Users\dell\Documents\Visual Studio 2013\Projects\goswamibhatttailang\Gbts.DomainClasses\bin\Debug\Gbts.DomainClasses.dll
+C:\Users\dell\Documents\Visual Studio 2013\Projects\goswamibhatttailang\Gbts.DomainClasses\bin\Debug\Gbts.DomainClasses.pdb
+C:\Users\dell\Documents\Visual Studio 2013\Projects\goswamibhatttailang\Gbts.DomainClasses\obj\Debug\Gbts.DomainClasses.dll
+C:\Users\dell\Documents\Visual Studio 2013\Projects\goswamibhatttailang\Gbts.DomainClasses\obj\Debug\Gbts.DomainClasses.pdb
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.DomainClasses\obj\Debug\Gbts.DomainClasses.csprojResolveAssemblyReference.cache

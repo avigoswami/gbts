@@ -1,0 +1,10 @@
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\bin\Debug\Gbts.Repository.dll.config
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\bin\Debug\Gbts.Repository.dll
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\bin\Debug\Gbts.Repository.pdb
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\bin\Debug\EntityFramework.dll
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\bin\Debug\EntityFramework.xml
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\obj\Debug\Gbts.Repository.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\obj\Debug\Gbts.Repository.dll
+C:\Users\dell\documents\visual studio 2013\Projects\goswamibhatttailang\Gbts.Repository\obj\Debug\Gbts.Repository.pdb
